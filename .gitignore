@@ -2,6 +2,4 @@
 /.idea/
 /cache/
 /data/
-/lib/problemDB.py
-/lib/sqliteDB.py
 __pycache__
