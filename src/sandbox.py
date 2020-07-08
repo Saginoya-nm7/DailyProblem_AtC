@@ -9,8 +9,6 @@ twitter = TwitterAPI(
     access_secret=config.ACC_SEC
 )
 
-pprint(twitter.getTimeline(count=5))
-
 pprint(twitter.tweet(tweet="にゃーん"))
 
 
