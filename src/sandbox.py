@@ -10,5 +10,3 @@ twitter = TwitterAPI(
 )
 
 pprint(twitter.tweet(tweet="にゃーん"))
-
-
